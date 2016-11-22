@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "webpack-dev-server --inline",
+    "build": "webpack",
     "lint": "eslint src"
   },
   "author": "Ryan Hirsch <ryan.hirsch@gmail.com> (http://hirsch.io)",
